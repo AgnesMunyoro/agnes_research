@@ -1,5 +1,9 @@
 # 17/1/2017 
 
+# then some text
+# some other text
+
+
 # Script for Agnes
 
 # Aims: 
@@ -30,11 +34,13 @@ pacman::p_load(
 
 # Note: the first time you run this on your machine you may have to run the following
 
-#install.packages("pacman")
+# install.packages("pacman")
 # This has been commented so you do not run it by mistake. 
 # As mentioned before you can remove the comment by selecting the line and pressing CTRL + SHIFT + C
 
-# Sources of data 
+
+# Data Sources -------------------------------------------------------------
+
 
 # I will take two prepared data sources and place them in the 
 # data directory 
@@ -45,7 +51,7 @@ pacman::p_load(
 # The first dataset is from the Human Fertility Database, combined with the Human Fertility Collection
 
 # The code which produced the file is available here:
-# https://github.com/JonMinton/comparative_fertility/hfc_hfd_data_combine.R
+# https://github.com/JonMinton/comparative_fertility/blob/master/scripts/hfc_hfd_data_combine.R
 
 # I will copy the file from my local machine as follows:
 
@@ -55,11 +61,21 @@ dta_schedules <- read_csv("data/fertility_schedules.csv")
 
 dta_schedules
 
+glimpse(dta_schedules)
+
+# object %>% first_action() %>% second_action() %>% third_action()
+# third_action(second_action(first_action(object))))
+
+dta_schedules %>% glimpse()
 # This contains data for many countries, but we are only interested in England & Wales
 
 dta_schedules_enw <- dta_schedules %>% 
   filter(code == "GBRTENW") 
 
+# dta_schedules %>% 
+#   filter(code == "GBRTENW") -> dta_schedules_enw
+# ->
+# <-
 # The dataset also includes data for years we are not going to explore further. We will filter them out later
 
 
@@ -98,6 +114,13 @@ dta_pop_struct %>%
   ggplot(aes(x = year, y = babies)) +
   geom_line()
 
+# dta_pop_struct %>%
+#   filter(age == 0) %>% 
+#   group_by(year) %>% 
+#   summarise(babies = sum(population)) %>% 
+#   ggplot(aes(x = year, y = babies)) +
+#   geom_point()
+
 # Now let's do the same for each region
 
 #common scale
@@ -107,7 +130,7 @@ dta_pop_struct %>%
   summarise(babies = sum(population)) %>% 
   ggplot(aes(x = year, y = babies)) +
   geom_line() +
-  facet_wrap(~ ons_region_name)
+  facet_wrap( ~ ons_region_name)
 
 # separate scales
 dta_pop_struct %>%
@@ -129,6 +152,15 @@ dta_pop_struct %>%
   mutate(baby_index = babies / babies[year == min(year)]) %>% 
   ggplot(aes(x = year, y = baby_index, colour = ons_region_name)) +
   geom_line() 
+
+# dta_pop_struct %>%
+#   filter(age == 0) %>% 
+#   group_by(ons_region_name, year) %>% 
+#   summarise(babies = sum(population)) %>% 
+#   mutate(baby_index = babies / babies[year == min(year)]) %>% 
+#   ggplot(aes(x = year, y = baby_index, colour = ons_region_name)) +
+#   geom_line() 
+
 
 # This makes it clearer that London is somewhat different in its 'baby growth rate'
 # than the other English/Welsh ('Wenglish'?!) regions
