@@ -353,6 +353,8 @@ model_01 <- lm(babygap_percent  ~ pct_internal + pct_international, data = perce
 
 summary(model_01)
 
+
+
 # To discuss: implications of this model 
 
 # Is there a London exceptionalism? 
@@ -386,5 +388,49 @@ BIC(model_01, model_02)
 # Something else to consider is whether we should try to predict something else 
 # the absolute or root-mean squared (RMS) percentage error in prediction, 
 # rather than the size (and sign) of the gap between expected and observed
+
+
+### Joining house price data 
+
+
+hp_1 <- read_csv("data/ukhpi-comparison-all-hpi-east-of-england-from-2003-01-01-to-2012-12-01.csv")
+hp_2 <- read_csv("data/ukhpi-comparison-all-hpi-north-east-from-2003-01-01-to-2012-12-01.csv")
+
+hp_joined <- bind_rows(hp_1, hp_2)
+
+# hp_joined %>% 
+#   select(region = Name, 
+#          month = Period,
+#          volume = `Sales volume`,
+#          hpi = `House price index All property types`
+#          ) %>% 
+#   mutate(month = paste0(month, "-01")) %>% 
+#   mutate(month_proper = lubridate::ymd(month)) %>% 
+#   mutate(year = lubridate::year(month_proper)) %>% 
+#   select(region, volume, hpi, year) %>% 
+#   group_by(region, year) %>% 
+#   summarise(avg_hpi = mean(hpi)) %>% 
+#   ungroup()
+
+hpi_data <-
+  hp_joined %>% 
+  select(region = Name, 
+         month = Period,
+         volume = `Sales volume`,
+         hpi = `House price index All property types`
+  ) %>% 
+  mutate(region = ifelse(region == "West Midlands Region", "West Midlands", region)) %>% 
+  mutate(month = paste0(month, "-01")) %>% 
+  mutate(month_proper = lubridate::ymd(month)) %>% 
+  mutate(year = lubridate::year(month_proper)) %>% 
+  select(region, volume, hpi, year) %>%
+  mutate(tmp = volume * hpi) %>% 
+  group_by(region, year) %>% 
+  summarise(
+    weighted_avg_hpi = sum(tmp) / sum(volume),
+    avg_hpi = mean(hpi)
+    ) %>% 
+  ungroup()
+  
 
 

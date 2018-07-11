@@ -1,0 +1,601 @@
+"Name","URI","Region GSS code","Period","Sales volume","Reporting period","House price index All property types","Pivotable date"
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-01,6889,monthly,65.16,2003-01-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-01,3888,monthly,57.63,2003-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-01,10931,monthly,55.92,2003-01-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-01,7434,monthly,65.83,2003-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-01,7804,monthly,57.69,2003-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-02,6930,monthly,66.62,2003-02-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-02,3762,monthly,58.38,2003-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-02,10670,monthly,55.82,2003-02-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-02,7275,monthly,65.61,2003-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-02,7497,monthly,57.8,2003-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-03,7381,monthly,66.06,2003-03-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-03,4296,monthly,61.39,2003-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-03,11787,monthly,56.57,2003-03-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-03,7602,monthly,67.61,2003-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-03,8432,monthly,58.81,2003-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-04,7506,monthly,69.28,2003-04-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-04,4386,monthly,64.52,2003-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-04,12301,monthly,59.32,2003-04-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-04,7781,monthly,68.56,2003-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-04,8849,monthly,60.87,2003-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-05,8273,monthly,70.72,2003-05-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-05,5214,monthly,65.75,2003-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-05,13781,monthly,60.91,2003-05-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-05,8829,monthly,70.11,2003-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-05,10158,monthly,62.7,2003-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-06,8773,monthly,71.31,2003-06-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-06,5226,monthly,67.25,2003-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-06,13687,monthly,61.93,2003-06-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-06,9142,monthly,70.47,2003-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-06,10413,monthly,64.01,2003-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-07,9126,monthly,72.66,2003-07-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-07,5504,monthly,70.69,2003-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-07,14337,monthly,64.07,2003-07-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-07,9720,monthly,71.98,2003-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-07,11013,monthly,65.73,2003-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-08,9809,monthly,74.57,2003-08-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-08,5600,monthly,72.03,2003-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-08,15492,monthly,65.77,2003-08-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-08,10411,monthly,74.04,2003-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-08,11564,monthly,67.19,2003-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-09,9234,monthly,74.56,2003-09-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-09,5293,monthly,72.32,2003-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-09,14679,monthly,65.87,2003-09-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-09,9881,monthly,73.65,2003-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-09,10865,monthly,67.44,2003-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-10,10458,monthly,75.75,2003-10-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-10,6148,monthly,74.58,2003-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-10,17128,monthly,67.4,2003-10-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-10,11359,monthly,74.89,2003-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-10,12209,monthly,68.52,2003-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-11,9623,monthly,76.61,2003-11-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-11,5677,monthly,75.71,2003-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-11,15994,monthly,68.68,2003-11-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-11,10563,monthly,76.13,2003-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-11,11302,monthly,69.9,2003-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2003-12,10239,monthly,76.8,2003-12-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2003-12,5747,monthly,76.44,2003-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2003-12,16396,monthly,70.73,2003-12-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2003-12,10875,monthly,77.76,2003-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2003-12,11890,monthly,71.52,2003-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-01,7314,monthly,77.71,2004-01-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-01,3865,monthly,77.67,2004-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-01,11657,monthly,70.3,2004-01-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-01,7782,monthly,77.42,2004-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-01,8444,monthly,71.1,2004-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-02,7473,monthly,78.24,2004-02-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-02,4006,monthly,75.56,2004-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-02,11788,monthly,71.23,2004-02-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-02,8319,monthly,78.16,2004-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-02,8425,monthly,71.45,2004-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-03,8770,monthly,78.9,2004-03-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-03,4888,monthly,79.4,2004-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-03,14123,monthly,72.41,2004-03-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-03,9281,monthly,79.38,2004-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-03,10102,monthly,74.14,2004-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-04,10531,monthly,81.78,2004-04-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-04,5809,monthly,84.94,2004-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-04,15963,monthly,76.73,2004-04-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-04,10496,monthly,81.6,2004-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-04,11490,monthly,78.29,2004-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-05,9563,monthly,83.64,2004-05-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-05,5267,monthly,87.2,2004-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-05,14450,monthly,79.44,2004-05-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-05,9982,monthly,83.16,2004-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-05,10747,monthly,80.35,2004-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-06,10503,monthly,85.22,2004-06-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-06,6201,monthly,90.85,2004-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-06,16448,monthly,81.85,2004-06-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-06,10830,monthly,85.82,2004-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-06,11901,monthly,82.79,2004-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-07,11266,monthly,86.96,2004-07-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-07,6208,monthly,93.97,2004-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-07,17383,monthly,85.18,2004-07-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-07,12045,monthly,87.51,2004-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-07,12740,monthly,84.41,2004-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-08,9424,monthly,88.6,2004-08-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-08,5153,monthly,95.34,2004-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-08,14919,monthly,86.11,2004-08-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-08,10316,monthly,88.85,2004-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-08,10285,monthly,86.01,2004-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-09,7945,monthly,89.24,2004-09-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-09,4582,monthly,94.31,2004-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-09,12596,monthly,86.57,2004-09-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-09,8760,monthly,88.92,2004-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-09,9273,monthly,87.07,2004-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-10,7600,monthly,89.07,2004-10-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-10,4650,monthly,95.77,2004-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-10,12855,monthly,87.11,2004-10-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-10,8606,monthly,89.63,2004-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-10,9409,monthly,86.87,2004-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-11,6881,monthly,90.16,2004-11-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-11,3883,monthly,93.52,2004-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-11,11333,monthly,88.19,2004-11-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-11,7595,monthly,89.77,2004-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-11,7995,monthly,87.26,2004-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2004-12,6958,monthly,89.65,2004-12-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2004-12,4199,monthly,96.89,2004-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2004-12,11295,monthly,88.35,2004-12-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2004-12,7816,monthly,89.93,2004-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2004-12,8658,monthly,88.4,2004-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-01,4327,monthly,88.03,2005-01-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-01,2559,monthly,95.15,2005-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-01,7343,monthly,87.43,2005-01-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-01,4909,monthly,88.24,2005-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-01,5513,monthly,87.34,2005-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-02,4790,monthly,89.01,2005-02-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-02,2752,monthly,94.28,2005-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-02,7712,monthly,86.47,2005-02-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-02,5427,monthly,89.2,2005-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-02,5700,monthly,88.43,2005-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-03,5901,monthly,89.23,2005-03-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-03,3359,monthly,96.11,2005-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-03,9079,monthly,88.88,2005-03-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-03,6491,monthly,89.44,2005-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-03,7004,monthly,89.34,2005-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-04,7088,monthly,90.22,2005-04-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-04,4117,monthly,98.65,2005-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-04,10896,monthly,90.5,2005-04-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-04,7712,monthly,90.24,2005-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-04,8173,monthly,89.73,2005-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-05,6890,monthly,91.24,2005-05-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-05,4157,monthly,99.87,2005-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-05,10801,monthly,92.45,2005-05-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-05,7633,monthly,90.85,2005-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-05,8270,monthly,91.79,2005-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-06,7885,monthly,90.91,2005-06-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-06,4474,monthly,101.25,2005-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-06,12211,monthly,93.76,2005-06-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-06,8951,monthly,92.15,2005-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-06,9656,monthly,92.79,2005-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-07,8444,monthly,92.04,2005-07-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-07,4806,monthly,103.55,2005-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-07,12482,monthly,94.82,2005-07-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-07,9091,monthly,93.05,2005-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-07,9874,monthly,93.96,2005-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-08,8319,monthly,92.74,2005-08-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-08,4378,monthly,105.04,2005-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-08,11919,monthly,95.75,2005-08-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-08,8833,monthly,93.6,2005-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-08,9151,monthly,94.77,2005-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-09,8473,monthly,92.0,2005-09-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-09,4623,monthly,103.5,2005-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-09,12695,monthly,95.77,2005-09-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-09,8943,monthly,93.07,2005-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-09,9561,monthly,94.95,2005-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-10,7681,monthly,92.8,2005-10-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-10,4311,monthly,103.83,2005-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-10,11373,monthly,95.5,2005-10-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-10,8230,monthly,93.0,2005-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-10,9058,monthly,95.09,2005-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-11,7772,monthly,92.8,2005-11-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-11,4400,monthly,105.2,2005-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-11,11646,monthly,95.79,2005-11-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-11,8712,monthly,93.59,2005-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-11,9053,monthly,95.17,2005-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2005-12,8951,monthly,92.6,2005-12-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2005-12,5168,monthly,105.06,2005-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2005-12,13313,monthly,97.44,2005-12-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2005-12,9778,monthly,93.84,2005-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2005-12,10191,monthly,95.78,2005-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-01,5978,monthly,91.39,2006-01-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-01,3300,monthly,105.02,2006-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-01,9299,monthly,95.67,2006-01-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-01,6843,monthly,93.0,2006-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-01,7279,monthly,95.5,2006-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-02,6405,monthly,91.63,2006-02-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-02,3597,monthly,103.39,2006-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-02,9928,monthly,96.74,2006-02-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-02,7057,monthly,93.73,2006-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-02,7413,monthly,96.2,2006-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-03,8741,monthly,92.03,2006-03-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-03,5123,monthly,105.66,2006-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-03,13234,monthly,96.4,2006-03-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-03,9468,monthly,93.89,2006-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-03,9781,monthly,96.65,2006-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-04,7912,monthly,94.63,2006-04-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-04,4571,monthly,107.73,2006-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-04,11814,monthly,99.82,2006-04-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-04,8468,monthly,94.79,2006-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-04,9414,monthly,99.04,2006-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-05,8881,monthly,94.43,2006-05-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-05,4795,monthly,108.2,2006-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-05,13340,monthly,100.21,2006-05-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-05,9476,monthly,97.16,2006-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-05,10116,monthly,99.27,2006-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-06,10659,monthly,95.29,2006-06-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-06,5746,monthly,110.18,2006-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-06,15763,monthly,101.74,2006-06-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-06,11271,monthly,96.73,2006-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-06,12396,monthly,100.28,2006-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-07,9425,monthly,97.01,2006-07-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-07,5313,monthly,111.21,2006-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-07,13848,monthly,102.64,2006-07-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-07,9937,monthly,96.77,2006-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-07,11170,monthly,101.61,2006-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-08,10183,monthly,97.45,2006-08-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-08,5071,monthly,110.93,2006-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-08,14509,monthly,102.96,2006-08-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-08,10642,monthly,98.26,2006-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-08,11109,monthly,102.73,2006-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-09,9765,monthly,96.51,2006-09-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-09,5510,monthly,112.35,2006-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-09,14490,monthly,103.89,2006-09-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-09,10435,monthly,98.73,2006-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-09,11107,monthly,102.85,2006-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-10,9446,monthly,97.5,2006-10-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-10,5216,monthly,112.49,2006-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-10,14135,monthly,103.73,2006-10-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-10,10289,monthly,98.62,2006-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-10,11090,monthly,103.29,2006-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-11,9804,monthly,97.68,2006-11-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-11,5343,monthly,111.62,2006-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-11,14994,monthly,104.58,2006-11-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-11,10511,monthly,99.2,2006-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-11,11381,monthly,103.76,2006-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2006-12,10413,monthly,98.81,2006-12-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2006-12,6047,monthly,114.41,2006-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2006-12,15679,monthly,105.73,2006-12-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2006-12,11472,monthly,99.75,2006-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2006-12,11749,monthly,105.11,2006-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-01,7037,monthly,98.5,2007-01-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-01,3904,monthly,113.1,2007-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-01,10718,monthly,104.94,2007-01-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-01,7705,monthly,99.18,2007-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-01,8271,monthly,104.15,2007-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-02,7125,monthly,98.92,2007-02-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-02,4014,monthly,111.97,2007-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-02,11229,monthly,105.57,2007-02-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-02,7614,monthly,99.44,2007-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-02,8423,monthly,104.34,2007-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-03,9116,monthly,99.3,2007-03-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-03,5267,monthly,112.77,2007-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-03,13744,monthly,105.79,2007-03-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-03,9816,monthly,99.98,2007-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-03,10371,monthly,104.81,2007-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-04,8170,monthly,100.25,2007-04-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-04,4734,monthly,115.27,2007-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-04,12406,monthly,107.72,2007-04-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-04,8414,monthly,101.97,2007-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-04,9276,monthly,107.32,2007-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-05,8914,monthly,100.51,2007-05-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-05,5560,monthly,115.78,2007-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-05,13623,monthly,108.62,2007-05-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-05,9436,monthly,102.22,2007-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-05,10536,monthly,108.57,2007-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-06,10668,monthly,101.66,2007-06-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-06,6406,monthly,117.5,2007-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-06,15600,monthly,110.22,2007-06-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-06,11228,monthly,102.48,2007-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-06,12141,monthly,109.7,2007-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-07,9522,monthly,102.75,2007-07-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-07,5765,monthly,118.99,2007-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-07,14735,monthly,110.54,2007-07-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-07,10099,monthly,103.3,2007-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-07,11262,monthly,109.92,2007-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-08,10470,monthly,103.48,2007-08-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-08,5930,monthly,118.25,2007-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-08,15679,monthly,111.37,2007-08-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-08,10693,monthly,104.49,2007-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-08,11457,monthly,110.07,2007-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-09,8229,monthly,103.82,2007-09-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-09,4766,monthly,118.05,2007-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-09,12666,monthly,111.06,2007-09-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-09,8677,monthly,103.99,2007-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-09,9072,monthly,109.69,2007-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-10,8177,monthly,102.53,2007-10-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-10,5077,monthly,117.75,2007-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-10,13058,monthly,111.25,2007-10-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-10,9137,monthly,104.23,2007-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-10,9891,monthly,110.33,2007-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-11,8697,monthly,102.79,2007-11-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-11,5193,monthly,118.5,2007-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-11,13321,monthly,110.81,2007-11-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-11,9266,monthly,103.48,2007-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-11,9599,monthly,110.1,2007-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2007-12,7083,monthly,102.33,2007-12-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2007-12,4126,monthly,118.23,2007-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2007-12,10891,monthly,112.04,2007-12-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2007-12,7362,monthly,104.13,2007-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2007-12,7935,monthly,110.29,2007-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-01,4705,monthly,99.61,2008-01-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-01,2800,monthly,115.59,2008-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-01,7384,monthly,109.0,2008-01-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-01,5045,monthly,101.94,2008-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-01,5702,monthly,108.12,2008-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-02,5182,monthly,99.59,2008-02-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-02,2919,monthly,115.25,2008-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-02,8133,monthly,107.93,2008-02-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-02,5630,monthly,102.22,2008-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-02,6036,monthly,107.77,2008-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-03,4967,monthly,99.07,2008-03-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-03,2952,monthly,114.01,2008-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-03,7746,monthly,106.56,2008-03-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-03,5244,monthly,101.1,2008-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-03,5372,monthly,106.62,2008-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-04,5310,monthly,99.21,2008-04-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-04,3098,monthly,116.05,2008-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-04,8083,monthly,108.36,2008-04-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-04,5761,monthly,100.67,2008-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-04,6001,monthly,107.39,2008-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-05,5595,monthly,99.0,2008-05-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-05,3163,monthly,117.01,2008-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-05,8044,monthly,107.82,2008-05-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-05,5996,monthly,101.67,2008-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-05,6539,monthly,107.88,2008-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-06,5020,monthly,98.62,2008-06-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-06,2827,monthly,115.63,2008-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-06,7010,monthly,107.42,2008-06-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-06,5611,monthly,100.61,2008-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-06,6046,monthly,105.73,2008-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-07,4420,monthly,98.24,2008-07-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-07,2488,monthly,112.93,2008-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-07,6658,monthly,105.73,2008-07-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-07,4826,monthly,98.35,2008-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-07,5160,monthly,105.55,2008-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-08,4110,monthly,95.14,2008-08-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-08,2119,monthly,112.28,2008-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-08,5854,monthly,104.57,2008-08-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-08,4395,monthly,96.93,2008-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-08,4746,monthly,103.81,2008-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-09,3565,monthly,92.79,2008-09-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-09,1954,monthly,108.34,2008-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-09,5069,monthly,101.36,2008-09-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-09,3746,monthly,95.67,2008-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-09,4047,monthly,101.07,2008-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-10,3962,monthly,91.21,2008-10-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-10,1999,monthly,106.22,2008-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-10,5259,monthly,100.31,2008-10-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-10,4101,monthly,93.76,2008-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-10,4482,monthly,99.44,2008-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-11,3224,monthly,87.79,2008-11-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-11,1713,monthly,105.74,2008-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-11,4412,monthly,97.67,2008-11-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-11,3376,monthly,91.23,2008-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-11,3651,monthly,96.45,2008-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2008-12,3700,monthly,87.74,2008-12-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2008-12,1710,monthly,102.66,2008-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2008-12,4694,monthly,96.69,2008-12-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2008-12,3472,monthly,89.42,2008-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2008-12,3899,monthly,95.49,2008-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-01,2245,monthly,85.71,2009-01-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-01,1138,monthly,101.33,2009-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-01,3128,monthly,93.7,2009-01-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-01,2356,monthly,88.23,2009-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-01,2377,monthly,92.21,2009-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-02,2271,monthly,84.52,2009-02-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-02,1200,monthly,100.06,2009-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-02,3232,monthly,93.31,2009-02-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-02,2566,monthly,87.28,2009-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-02,2672,monthly,92.35,2009-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-03,3227,monthly,84.54,2009-03-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-03,1680,monthly,99.93,2009-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-03,4298,monthly,91.63,2009-03-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-03,3224,monthly,86.31,2009-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-03,3412,monthly,90.94,2009-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-04,3392,monthly,84.84,2009-04-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-04,1708,monthly,100.95,2009-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-04,4467,monthly,93.92,2009-04-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-04,3376,monthly,86.53,2009-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-04,3634,monthly,92.9,2009-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-05,3899,monthly,84.52,2009-05-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-05,1998,monthly,102.03,2009-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-05,4980,monthly,94.25,2009-05-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-05,3865,monthly,87.75,2009-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-05,4046,monthly,93.41,2009-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-06,4667,monthly,86.62,2009-06-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-06,2218,monthly,103.13,2009-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-06,5807,monthly,94.72,2009-06-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-06,4470,monthly,87.9,2009-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-06,4793,monthly,94.1,2009-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-07,5131,monthly,87.36,2009-07-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-07,2277,monthly,103.24,2009-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-07,6717,monthly,96.17,2009-07-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-07,5279,monthly,90.49,2009-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-07,5366,monthly,97.05,2009-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-08,4815,monthly,88.72,2009-08-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-08,2126,monthly,104.71,2009-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-08,6010,monthly,96.83,2009-08-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-08,4887,monthly,91.19,2009-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-08,4767,monthly,97.14,2009-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-09,4718,monthly,88.82,2009-09-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-09,2098,monthly,105.61,2009-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-09,5975,monthly,97.29,2009-09-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-09,4779,monthly,91.35,2009-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-09,4868,monthly,96.96,2009-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-10,5528,monthly,90.03,2009-10-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-10,2438,monthly,105.1,2009-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-10,6903,monthly,97.93,2009-10-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-10,5648,monthly,92.59,2009-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-10,5601,monthly,98.41,2009-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-11,4944,monthly,90.15,2009-11-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-11,2139,monthly,105.95,2009-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-11,6594,monthly,98.25,2009-11-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-11,5002,monthly,92.15,2009-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-11,5106,monthly,98.57,2009-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2009-12,6846,monthly,91.49,2009-12-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2009-12,2934,monthly,106.87,2009-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2009-12,8285,monthly,99.79,2009-12-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2009-12,6360,monthly,93.49,2009-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2009-12,6647,monthly,99.24,2009-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-01,2727,monthly,88.8,2010-01-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-01,1363,monthly,102.38,2010-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-01,3595,monthly,96.34,2010-01-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-01,2914,monthly,92.27,2010-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-01,2846,monthly,97.51,2010-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-02,3313,monthly,90.85,2010-02-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-02,1632,monthly,104.12,2010-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-02,4713,monthly,97.83,2010-02-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-02,3423,monthly,92.94,2010-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-02,3549,monthly,97.48,2010-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-03,4501,monthly,89.71,2010-03-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-03,1851,monthly,105.08,2010-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-03,5662,monthly,96.51,2010-03-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-03,4286,monthly,92.44,2010-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-03,4236,monthly,97.46,2010-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-04,4374,monthly,90.75,2010-04-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-04,2080,monthly,105.34,2010-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-04,5652,monthly,98.62,2010-04-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-04,4417,monthly,93.97,2010-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-04,4388,monthly,98.7,2010-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-05,4210,monthly,92.25,2010-05-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-05,2018,monthly,104.88,2010-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-05,5625,monthly,98.71,2010-05-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-05,4263,monthly,94.19,2010-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-05,4694,monthly,98.98,2010-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-06,5193,monthly,92.5,2010-06-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-06,2557,monthly,105.52,2010-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-06,6569,monthly,99.03,2010-06-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-06,5134,monthly,95.04,2010-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-06,5328,monthly,99.43,2010-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-07,5533,monthly,93.04,2010-07-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-07,2623,monthly,105.29,2010-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-07,7189,monthly,98.48,2010-07-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-07,5691,monthly,95.24,2010-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-07,5657,monthly,100.82,2010-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-08,4949,monthly,93.71,2010-08-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-08,2320,monthly,107.7,2010-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-08,6561,monthly,99.78,2010-08-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-08,5194,monthly,94.95,2010-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-08,4914,monthly,100.53,2010-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-09,4524,monthly,92.46,2010-09-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-09,2213,monthly,104.33,2010-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-09,5981,monthly,98.74,2010-09-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-09,4891,monthly,95.84,2010-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-09,4790,monthly,99.49,2010-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-10,4898,monthly,91.82,2010-10-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-10,2331,monthly,106.52,2010-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-10,6273,monthly,97.89,2010-10-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-10,5118,monthly,94.02,2010-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-10,4826,monthly,97.72,2010-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-11,4688,monthly,91.06,2010-11-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-11,2095,monthly,102.65,2010-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-11,6126,monthly,96.44,2010-11-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-11,4768,monthly,94.0,2010-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-11,4675,monthly,96.61,2010-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2010-12,4786,monthly,90.52,2010-12-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2010-12,2338,monthly,102.16,2010-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2010-12,6181,monthly,96.55,2010-12-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2010-12,4973,monthly,93.6,2010-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2010-12,4638,monthly,97.44,2010-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-01,2927,monthly,88.77,2011-01-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-01,1458,monthly,99.96,2011-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-01,4141,monthly,95.48,2011-01-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-01,3144,monthly,92.32,2011-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-01,3044,monthly,94.72,2011-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-02,3190,monthly,89.3,2011-02-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-02,1541,monthly,99.7,2011-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-02,4334,monthly,94.79,2011-02-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-02,3347,monthly,91.05,2011-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-02,3281,monthly,96.08,2011-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-03,3819,monthly,88.75,2011-03-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-03,2060,monthly,98.77,2011-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-03,5365,monthly,93.92,2011-03-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-03,4000,monthly,90.25,2011-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-03,3866,monthly,93.83,2011-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-04,4253,monthly,89.22,2011-04-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-04,2157,monthly,101.95,2011-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-04,5694,monthly,95.19,2011-04-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-04,4289,monthly,91.73,2011-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-04,4515,monthly,96.78,2011-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-05,4070,monthly,89.45,2011-05-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-05,2056,monthly,102.41,2011-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-05,5513,monthly,94.64,2011-05-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-05,4121,monthly,91.81,2011-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-05,4327,monthly,96.73,2011-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-06,4962,monthly,89.67,2011-06-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-06,2476,monthly,102.15,2011-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-06,6255,monthly,94.44,2011-06-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-06,5046,monthly,91.89,2011-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-06,4895,monthly,95.68,2011-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-07,5136,monthly,91.14,2011-07-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-07,2514,monthly,100.39,2011-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-07,6720,monthly,95.76,2011-07-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-07,5252,monthly,92.12,2011-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-07,5089,monthly,96.33,2011-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-08,5341,monthly,91.51,2011-08-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-08,2436,monthly,99.83,2011-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-08,6559,monthly,96.55,2011-08-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-08,5272,monthly,92.12,2011-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-08,5425,monthly,97.22,2011-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-09,5085,monthly,90.4,2011-09-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-09,2580,monthly,100.07,2011-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-09,6788,monthly,95.91,2011-09-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-09,5379,monthly,93.05,2011-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-09,5282,monthly,96.61,2011-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-10,4730,monthly,89.48,2011-10-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-10,2261,monthly,99.22,2011-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-10,6239,monthly,95.32,2011-10-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-10,5050,monthly,91.26,2011-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-10,4866,monthly,94.91,2011-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-11,4913,monthly,89.7,2011-11-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-11,2480,monthly,99.89,2011-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-11,6301,monthly,93.61,2011-11-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-11,5200,monthly,91.9,2011-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-11,5193,monthly,95.36,2011-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2011-12,5242,monthly,90.27,2011-12-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2011-12,2618,monthly,98.44,2011-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2011-12,6951,monthly,94.12,2011-12-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2011-12,5634,monthly,90.51,2011-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2011-12,5268,monthly,95.19,2011-12-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-01,3558,monthly,88.74,2012-01-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-01,1694,monthly,96.46,2012-01-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-01,4594,monthly,92.46,2012-01-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-01,3688,monthly,91.42,2012-01-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-01,3593,monthly,93.09,2012-01-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-02,3545,monthly,88.57,2012-02-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-02,1640,monthly,97.18,2012-02-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-02,4708,monthly,93.58,2012-02-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-02,3769,monthly,90.5,2012-02-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-02,3667,monthly,93.93,2012-02-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-03,4887,monthly,89.17,2012-03-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-03,2368,monthly,99.54,2012-03-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-03,6407,monthly,93.96,2012-03-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-03,5350,monthly,91.24,2012-03-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-03,4957,monthly,94.42,2012-03-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-04,3675,monthly,90.09,2012-04-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-04,1795,monthly,99.04,2012-04-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-04,4826,monthly,94.3,2012-04-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-04,3737,monthly,91.06,2012-04-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-04,3828,monthly,94.03,2012-04-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-05,4481,monthly,89.97,2012-05-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-05,2160,monthly,98.67,2012-05-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-05,5600,monthly,93.69,2012-05-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-05,4490,monthly,90.83,2012-05-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-05,4541,monthly,95.21,2012-05-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-06,5134,monthly,90.75,2012-06-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-06,2579,monthly,100.25,2012-06-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-06,6123,monthly,95.42,2012-06-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-06,5205,monthly,93.09,2012-06-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-06,5230,monthly,96.19,2012-06-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-07,4761,monthly,91.74,2012-07-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-07,2104,monthly,99.98,2012-07-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-07,6239,monthly,94.85,2012-07-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-07,4909,monthly,92.89,2012-07-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-07,4850,monthly,96.33,2012-07-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-08,5338,monthly,90.97,2012-08-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-08,2458,monthly,102.21,2012-08-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-08,6662,monthly,95.66,2012-08-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-08,5469,monthly,92.89,2012-08-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-08,5376,monthly,96.78,2012-08-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-09,4117,monthly,90.62,2012-09-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-09,2015,monthly,100.89,2012-09-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-09,5423,monthly,95.54,2012-09-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-09,4382,monthly,92.78,2012-09-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-09,4355,monthly,95.89,2012-09-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-10,4930,monthly,90.71,2012-10-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-10,2361,monthly,99.74,2012-10-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-10,6120,monthly,93.35,2012-10-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-10,4927,monthly,91.82,2012-10-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-10,4971,monthly,94.89,2012-10-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-11,5315,monthly,90.79,2012-11-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-11,2502,monthly,99.68,2012-11-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-11,6785,monthly,94.77,2012-11-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-11,5706,monthly,92.63,2012-11-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-11,5559,monthly,95.68,2012-11-01
+East Midlands,http://landregistry.data.gov.uk/id/region/east-midlands,E12000004,2012-12,4746,monthly,90.44,2012-12-01
+North East,http://landregistry.data.gov.uk/id/region/north-east,E12000001,2012-12,2354,monthly,98.04,2012-12-01
+North West,http://landregistry.data.gov.uk/id/region/north-west,E12000002,2012-12,5992,monthly,93.99,2012-12-01
+West Midlands Region,http://landregistry.data.gov.uk/id/region/west-midlands-region,E12000005,2012-12,4820,monthly,92.88,2012-12-01
+Yorkshire and The Humber,http://landregistry.data.gov.uk/id/region/yorkshire-and-the-humber,E12000003,2012-12,4900,monthly,95.25,2012-12-01
